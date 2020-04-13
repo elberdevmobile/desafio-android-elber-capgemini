@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mockito:mockito-inline:2.23.0@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.mockito/mockito-inline/2.23.0/f320075af869593504d5dfd2eb231b434098af27/mockito-inline-2.23.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.mockito/mockito-inline/2.23.0/2ed4090a9edc0020a698ec51163b1cda2b8d658e/mockito-inline-2.23.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
